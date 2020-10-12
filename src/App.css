@@ -1,0 +1,39 @@
+html {
+  background-image: url(./assets/background.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  background-size: cover;
+}
+
+.timer {
+  text-align: center;
+  font-size: large;
+  margin-top: 0;
+  font-weight: bold;
+}
+
+
+.like {
+  background: url(./assets/like-background.png) no-repeat;
+  background-position: center;
+  width: 493px;
+  height: 30px;
+  margin: auto;
+  padding: 60px 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.success{
+margin-left: 35%;
+width: 455px;
+height: 250px;
+
+}
